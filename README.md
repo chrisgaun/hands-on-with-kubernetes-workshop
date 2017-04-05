@@ -28,3 +28,10 @@ To remove the droplets from Digital Ocean execute the following from your local 
 $ cd terraform
 $ terraform destroy --force
 ```
+## Reference
+
+Kubernetes vs. Mesos Marathon vs. Docker Swarm vs. Cloud Foundry SWOT analysis found [here](https://apprenda.com/white-papers/container-orchestration-comparison-guide/)
+
+Learn Why CTO's and Developers are Choosing Kubernetes [here](https://apprenda.com/why-kubernetes/)
+
+Join the Kubernetes community [here](https://github.com/chrisgaun/GKE-hands-on-training/blob/master/community.md)
