@@ -1,3 +1,6 @@
+[![GitHub license](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg)](LICENSE)
+[![Slackin](http://54.242.94.98/badge.svg)](http://54.242.94.98/)
+
 # Hands on with Kubernetes Workshops
 
 The following repository will create you a Kubernetes cluster using the following:
