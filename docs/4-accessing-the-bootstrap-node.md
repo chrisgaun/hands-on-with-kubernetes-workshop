@@ -4,7 +4,7 @@ To provision the Kubernetes cluster you need to SSH into the bootstrap-node
 
 ## 1. Windows
 
-During the installation of the prerequisites [here](windows-prerequisities.md) Git Bash for Windows would have been installed.
+During the installation of the prerequisites [here](2-windows-prerequisities.md) Git Bash for Windows would have been installed.
 
 Open a Git Bash terminal and browse to the location of the repository of your local machine.
 
